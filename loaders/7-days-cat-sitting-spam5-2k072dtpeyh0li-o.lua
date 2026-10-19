@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/7-days-cat-sitting-spam5-2k072dtpeyh0li.lua"))()
