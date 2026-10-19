@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/prehistoric-farm-new-world-spam3-vzlvmbpieyte50.lua"))()
