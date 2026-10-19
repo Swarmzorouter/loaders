@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/pet-store-tycoon-spam7-ig6iq6iof7tgeb.lua"))()
