@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/build-a-boat-for-treasure-spam1-mpbsjz7sfavv4o.lua"))()
