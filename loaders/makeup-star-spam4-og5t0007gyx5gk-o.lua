@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/makeup-star-spam4-og5t0007gyx5gk.lua"))()
