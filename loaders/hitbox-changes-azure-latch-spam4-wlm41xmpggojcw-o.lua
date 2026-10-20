@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/hitbox-changes-azure-latch-spam4-wlm41xmpggojcw.lua"))()
