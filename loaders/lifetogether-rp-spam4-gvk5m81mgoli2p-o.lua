@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/lifetogether-rp-spam4-gvk5m81mgoli2p.lua"))()
