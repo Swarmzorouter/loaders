@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/bloodlines-spam0-svy8jz3uhyllv9.lua"))()
