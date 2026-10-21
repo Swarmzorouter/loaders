@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/save-the-krusty-krab-spam4-cpb3rd92ij5bdo.lua"))()
