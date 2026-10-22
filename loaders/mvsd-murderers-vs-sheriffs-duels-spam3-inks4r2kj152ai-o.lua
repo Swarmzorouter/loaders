@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/mvsd-murderers-vs-sheriffs-duels-spam3-inks4r2kj152ai.lua"))()
