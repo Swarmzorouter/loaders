@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/shogun-s-reign-spam2-85j193eojr5806.lua"))()
