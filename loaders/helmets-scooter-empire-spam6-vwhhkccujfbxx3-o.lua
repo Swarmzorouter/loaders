@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/helmets-scooter-empire-spam6-vwhhkccujfbxx3.lua"))()
