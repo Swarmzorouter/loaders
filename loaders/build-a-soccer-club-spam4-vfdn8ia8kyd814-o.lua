@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/build-a-soccer-club-spam4-vfdn8ia8kyd814.lua"))()
