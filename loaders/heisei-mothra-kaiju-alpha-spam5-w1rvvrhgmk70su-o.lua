@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam5-w1rvvrhgmk70su.lua"))()
