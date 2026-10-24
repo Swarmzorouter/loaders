@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/anime-zero-solar-radiance-spam4-rn3dmhwsm7fkt8.lua"))()
