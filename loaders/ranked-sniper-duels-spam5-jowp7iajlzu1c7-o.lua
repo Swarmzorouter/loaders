@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/ranked-sniper-duels-spam5-jowp7iajlzu1c7.lua"))()
