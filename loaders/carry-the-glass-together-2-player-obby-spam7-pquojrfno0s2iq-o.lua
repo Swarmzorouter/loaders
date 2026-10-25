@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/carry-the-glass-together-2-player-obby-spam7-pquojrfno0s2iq.lua"))()
