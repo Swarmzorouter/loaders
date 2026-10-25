@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/ride-a-dino-spam3-qrucphovn4zmlh.lua"))()
