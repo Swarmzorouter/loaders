@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam5-441vtu05nu8r1w.lua"))()
