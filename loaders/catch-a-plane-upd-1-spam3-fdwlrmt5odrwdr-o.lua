@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/catch-a-plane-upd-1-spam3-fdwlrmt5odrwdr.lua"))()
