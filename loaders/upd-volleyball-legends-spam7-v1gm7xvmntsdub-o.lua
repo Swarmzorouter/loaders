@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/upd-volleyball-legends-spam7-v1gm7xvmntsdub.lua"))()
