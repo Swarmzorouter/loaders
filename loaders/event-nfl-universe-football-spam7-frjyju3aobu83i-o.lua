@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/event-nfl-universe-football-spam7-frjyju3aobu83i.lua"))()
