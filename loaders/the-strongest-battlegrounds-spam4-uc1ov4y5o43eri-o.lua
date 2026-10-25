@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/the-strongest-battlegrounds-spam4-uc1ov4y5o43eri.lua"))()
