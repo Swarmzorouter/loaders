@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/neohee-billiard-hall-spam3-qnfnrchro7zlhp.lua"))()
