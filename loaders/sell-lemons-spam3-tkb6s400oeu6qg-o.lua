@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/sell-lemons-spam3-tkb6s400oeu6qg.lua"))()
