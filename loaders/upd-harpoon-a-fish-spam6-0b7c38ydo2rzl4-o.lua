@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/upd-harpoon-a-fish-spam6-0b7c38ydo2rzl4.lua"))()
