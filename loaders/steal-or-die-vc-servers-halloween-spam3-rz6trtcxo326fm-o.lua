@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/steal-or-die-vc-servers-halloween-spam3-rz6trtcxo326fm.lua"))()
