@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/99-nights-in-the-forest-spam7-200j47tmonwa0k.lua"))()
