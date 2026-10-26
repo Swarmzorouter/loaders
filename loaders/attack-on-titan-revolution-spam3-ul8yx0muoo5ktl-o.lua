@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/attack-on-titan-revolution-spam3-ul8yx0muoo5ktl.lua"))()
